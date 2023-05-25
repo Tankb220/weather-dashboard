@@ -6,4 +6,4 @@ The webpage is an excercise in APIs, and javascript. I also used bootstrap for e
 
 link to page is https://tankb220.github.io/weather-dashboard/
 
-assets/images/Weather-Dashboard1.png
+ 
